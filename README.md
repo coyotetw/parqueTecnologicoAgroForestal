@@ -19,6 +19,8 @@ Fuente original: carpeta de Drive `Programa Intensivo de Formulacion de proyecto
 
 - `docs/proyecto-resumen.md` — síntesis del proyecto (Entrega 1 / TP1).
 - `docs/tp2-problematizacion.md` — trabajo en curso del Taller 2 (árbol de problemas, formulación del problema central, vinculación al eje temático, investigación dato→insight).
+- `docs/alineacion-guia-bfpi.md` — chequeo de lo hecho contra la Guía BFPI-CFI (el marco institucional real del CFI, más exigente que el curso).
+- `docs/referencias/` — documentos fuente (PDFs) usados como referencia.
 
 ## Metodología de referencia
 
