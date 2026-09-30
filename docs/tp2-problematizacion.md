@@ -7,7 +7,7 @@ El TP2 pide 4 partes:
 1. Árbol de problemas ✅ ya está.
 2. Formulación del problema central, verificada contra criterios metodológicos ✅ revisado abajo.
 3. Vinculación del problema al eje temático ✅ eje confirmado: **Cadenas de Valor Locales**. Borrador redactado abajo (caracterización razonable del eje, a validar contra el texto oficial de Classroom).
-4. Tabla "del dato al insight" (fuente → dato clave → hallazgo → causa/efecto) ⬜ pendiente.
+4. Tabla "del dato al insight" (fuente → dato clave → hallazgo → causa/efecto) ✅ armada abajo con fuentes reales.
 
 ---
 
@@ -62,14 +62,18 @@ Requiere un párrafo de 5-8 líneas que responda, de forma integrada:
 
 > La escasa, obsoleta e inadecuada estructura tecnológica e industrial de la cadena foresto-industrial del Noroeste de Chubut compromete directamente el eje Cadenas de Valor Locales, al afectar tanto la articulación entre el eslabón primario (extracción forestal) y el industrial (transformación y agregado de valor) como la capacidad de las pymes locales de capturar valor dentro de su propia cadena antes de que el producto salga de la región. Según el relevamiento del propio proyecto, solo el 40% del recurso forestal extraído se aprovecha efectivamente y apenas un 6% de la producción alcanza transformación secundaria, lo que confirma que el cuello de botella de la cadena está en el eslabón industrial, no en la disponibilidad del recurso. Las causas accionables identificadas en el árbol de problemas —déficit de equipamiento compartido para transformación secundaria, débil articulación técnica e institucional entre actores y escasa capacidad de estandarización y certificación— limitan directamente el objetivo central del eje: fortalecer el entramado de proveedores y pymes locales para que retengan más valor dentro de la cadena productiva provincial, en lugar de exportar madera con transformación mínima. Este problema amerita intervención pública provincial porque ninguno de los 51 aserraderos relevados puede, de forma individual, resolver una falla de escala que solo una infraestructura industrial compartida puede superar.
 
-## 4. Investigación: del dato al insight — PENDIENTE
+## 4. Investigación: del dato al insight
 
-Tabla con columnas: Fuente | Dato clave | Insight (máx. 20 palabras) | Implicancia (causa/efecto del árbol).
+> Fuente de este relevamiento: un documento de trabajo interno más detallado del proyecto (`Polo_Tecnologico_Forestal_Chubut`, Google Doc fuera de la carpeta del curso), que cita fuentes reales y marca explícitamente con `[SUPUESTO]` los datos que todavía no tienen fuente verificada — esa disciplina es justo lo que pide la "regla de oro de la evidencia" del Taller 1.
 
-Datos que ya aparecen en el TP1 y podrían servir de insumo (hay que rastrear la fuente original de cada uno):
-- ~60% de la biomasa/residuo forestal generado no se aprovecha económicamente.
-- 51 aserraderos inscriptos en el registro único de aserraderos fijos y portátiles de Chubut.
-- Solo ~40% de aprovechamiento del recurso forestal extraído; solo 6% de la producción tiene transformación secundaria.
-- 1.095.000 has de bosque nativo e implantado en el área de influencia (4,9% del territorio forestal).
+| Fuente | Dato clave | Insight / Hallazgo (máx. 20 palabras) | Implicancia (causa/efecto del árbol) |
+|---|---|---|---|
+| Secretaría de Bosques de Chubut, sección Manejo del Fuego (bosques.chubut.gov.ar) | ~177.200 ha afectadas por incendios de magnitud entre las temporadas 2014-2015 y 2025-2026 | La acumulación de biomasa sin valorizar ya causó más de 177 mil hectáreas quemadas en una década | **Efecto** — evidencia dura del efecto indirecto "alto riesgo ambiental y de incendios por acumulación de biomasa" |
+| CIEFAP, Publicación Técnica N°34 — "Residuos de biomasa de forestaciones y aserraderos de las provincias de Neuquén y Chubut" | Existe una estimación técnica oficial, con proyección decenal, de la oferta de residuos forestales y sus costos de aprovechamiento/transporte por nodo | El volumen de residuo sin aprovechar no es una cifra inventada: hay un estudio técnico que lo cuantifica por zona | **Causa** — respalda con evidencia real la causa "déficit de equipamiento y tecnología compartida para transformación secundaria" |
+| Secretaría de Bosques de Chubut (2023) — presentación de resultados del "Plan de aprovechamiento de residuos dendroenergéticos de Chubut" (antecedente CFI, destinado a Paso de Indios, Gualjaina y Corcovado) | Chubut ya ejecutó un antecedente institucional concreto de valorización de residuos forestales, con apoyo técnico y financiero del CFI | El Polo no es una idea nueva: es la continuación y escalamiento de una política que el propio CFI ya evaluó y financió antes | Refuerza la "Contribución del proyecto a la solución" y la vinculación con antecedentes CFI que ya figura en el TP1 |
+| Mapa de empatía del proyecto — perfil de contratista de saca / pequeño productor forestal | "El monte da trabajo pero no da plata"; ansiedad permanente por rotura de maquinaria y por cobrar a 90 días; siente que carga con el riesgo de toda la cadena | El problema no es solo tecnológico: el eslabón más débil de la cadena financia con su propio riesgo a los demás | **Causa** — evidencia cualitativa de por qué ningún actor individual puede invertir en equipamiento compartido |
+| Borrador técnico interno (Módulo 5, Viabilidad técnica), dato marcado `[SUPUESTO]`, sin fuente verificada | Rendimiento de aserrío estimado en 45-50% con sierras circulares y carros de tecnología antigua | Es un dato plausible pero no verificado — según la regla de evidencia del Taller 1, no debería tratarse como dato duro todavía | Causa tentativa de "déficit de equipamiento... transformación secundaria"; **pendiente validar** con una fuente real (cámara de aserraderos, CIEFAP o relevamiento propio) antes de usarlo en la entrega final |
 
-**Falta:** identificar la fuente concreta (informe, estadística oficial) de cada dato, y sumar 2-3 hallazgos nuevos (entrevistas, normativa, cobertura periodística) como pide la consigna.
+### Pendiente de verificación
+
+Los datos que están en el TP1 (Formulario Perfil) — **~60% de biomasa sin aprovechar, 51 aserraderos inscriptos, ~40% de aprovechamiento del recurso, 6% con transformación secundaria, 1.095.000 has de bosque** — no tienen fuente citada en ese documento. Es muy probable que el ~60%/40%/6% salgan de la Publicación Técnica N°34 del CIEFAP (fila 2 de la tabla) y que los 51 aserraderos y las hectáreas salgan del registro de la Secretaría de Bosques, pero hay que confirmar la cita exacta (informe, año, página) antes de la entrega — no alcanza con "según el relevamiento del propio proyecto".
