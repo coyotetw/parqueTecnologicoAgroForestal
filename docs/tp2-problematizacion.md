@@ -6,7 +6,7 @@ El TP2 pide 4 partes:
 
 1. Árbol de problemas ✅ ya está.
 2. Formulación del problema central, verificada contra criterios metodológicos ✅ revisado abajo.
-3. Vinculación del problema al eje temático ⬜ pendiente — falta definir el eje temático asignado al equipo.
+3. Vinculación del problema al eje temático ✅ eje confirmado: **Cadenas de Valor Locales**. Borrador redactado abajo (caracterización razonable del eje, a validar contra el texto oficial de Classroom).
 4. Tabla "del dato al insight" (fuente → dato clave → hallazgo → causa/efecto) ⬜ pendiente.
 
 ---
@@ -49,14 +49,18 @@ El material del Taller 2 marca errores típicos a evitar:
 
 **Conclusión:** el problema central ya cumple los criterios metodológicos. No hace falta reformularlo.
 
-## 3. Vinculación al eje temático — PENDIENTE
+## 3. Vinculación al eje temático: Cadenas de Valor Locales
 
 Requiere un párrafo de 5-8 líneas que responda, de forma integrada:
 1. ¿Qué dimensiones del eje temático se ven afectadas por el problema? (al menos 2, con referencia directa al texto del eje).
 2. ¿Cómo las causas accionables del árbol limitan los objetivos del eje?
 3. ¿Por qué este problema, en este territorio, amerita intervención pública provincial?
 
-**Falta el dato de qué eje temático le asignaron al equipo.** Una vez confirmado, se redacta acá.
+> ⚠️ **Nota metodológica:** no se encontró en el Drive el texto oficial de descripción del eje "Cadenas de Valor Locales" (ese material vive en Classroom, no en esta carpeta). El párrafo de abajo usa una **caracterización razonable** del eje (articulación entre eslabones primario-industrial, agregado de valor en origen, fortalecimiento de proveedores/pymes locales). **Hay que validarlo o ajustarlo contra el texto real del eje antes de entregarlo**, para que la referencia sea "directa al texto del eje" como pide la consigna.
+
+**Borrador:**
+
+> La escasa, obsoleta e inadecuada estructura tecnológica e industrial de la cadena foresto-industrial del Noroeste de Chubut compromete directamente el eje Cadenas de Valor Locales, al afectar tanto la articulación entre el eslabón primario (extracción forestal) y el industrial (transformación y agregado de valor) como la capacidad de las pymes locales de capturar valor dentro de su propia cadena antes de que el producto salga de la región. Según el relevamiento del propio proyecto, solo el 40% del recurso forestal extraído se aprovecha efectivamente y apenas un 6% de la producción alcanza transformación secundaria, lo que confirma que el cuello de botella de la cadena está en el eslabón industrial, no en la disponibilidad del recurso. Las causas accionables identificadas en el árbol de problemas —déficit de equipamiento compartido para transformación secundaria, débil articulación técnica e institucional entre actores y escasa capacidad de estandarización y certificación— limitan directamente el objetivo central del eje: fortalecer el entramado de proveedores y pymes locales para que retengan más valor dentro de la cadena productiva provincial, en lugar de exportar madera con transformación mínima. Este problema amerita intervención pública provincial porque ninguno de los 51 aserraderos relevados puede, de forma individual, resolver una falla de escala que solo una infraestructura industrial compartida puede superar.
 
 ## 4. Investigación: del dato al insight — PENDIENTE
 
