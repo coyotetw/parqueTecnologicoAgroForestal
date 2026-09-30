@@ -20,6 +20,7 @@ Fuente original: carpeta de Drive `Programa Intensivo de Formulacion de proyecto
 - `docs/proyecto-resumen.md` — síntesis del proyecto (Entrega 1 / TP1).
 - `docs/tp2-problematizacion.md` — trabajo en curso del Taller 2 (árbol de problemas, formulación del problema central, vinculación al eje temático, investigación dato→insight).
 - `docs/alineacion-guia-bfpi.md` — chequeo de lo hecho contra la Guía BFPI-CFI (el marco institucional real del CFI, más exigente que el curso).
+- `docs/linea-base-bioeconomia-forestal.md` — línea de base con antecedentes de Chile (CENAMAD, Ley 21.499) y de la Patagonia Norpatagónica (CIEFAP, CORFONE, costos por nodo en Chubut), y lecciones de éxito/fracaso de otros polos.
 - `docs/referencias/` — documentos fuente (PDFs) usados como referencia.
 
 ## Metodología de referencia
