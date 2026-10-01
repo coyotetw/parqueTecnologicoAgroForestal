@@ -6,16 +6,19 @@
 
 Creación y puesta en funcionamiento de un Polo Tecnológico Forestal, pensado como infraestructura estratégica de servicios tecnológicos e industriales **compartidos**, para superar las limitaciones de capacidad, escala, tecnología y equipamiento que hoy condicionan a la cadena foresto-industrial regional.
 
-Servicios previstos: acondicionamiento, secado, clasificación y tratamiento de madera; procesamiento y valorización de biomasa y residuos (chipeado, pelletizado, biochar); desarrollo de biomateriales y componentes para construcción; estandarización, control de calidad, certificación e innovación tecnológica.
+Servicios previstos: acondicionamiento, secado, clasificación y tratamiento de madera; procesamiento y valorización de biomasa y residuos de pino (bosque implantado) mediante chipeado y pelletizado; desarrollo de biomateriales y componentes para construcción; estandarización, control de calidad, certificación e innovación tecnológica.
+
+> **Validación técnica (Damián Soto, Ingeniero Forestal, CORFO / Secretaría de Bosques de Chubut):** se descartó el biochar como producto de biomasa — no es viable con el tipo de madera disponible en la zona. El foco de biomasa debe estar en pino (bosque implantado), no en especies nativas.
 
 ## Causas del problema (relevadas en TP1)
 
 - Insuficiente capacidad instalada para transformación primaria y secundaria de madera (unidades pequeñas, dispersas, de baja escala).
-- Obsolescencia y baja incorporación de tecnología industrial (secado, clasificación, mecanizado, tratamiento fitosanitario).
+- Tecnología instalada a pequeña escala, sin sistematización industrial del proceso de aserrío que permita manejar mayores volúmenes de producción. *(Corrección de Damián Soto — Ingeniero Forestal, CORFO/Secretaría de Bosques de Chubut: no se trata de obsolescencia o falta de incorporación de tecnología, sino de ausencia de sistematización a escala industrial.)*
 - Ausencia de infraestructura tecnológica compartida (los aserraderos no pueden invertir individualmente en secaderos, plantas de tratamiento, laboratorios).
 - Baja capacidad de aprovechamiento industrial de biomasa y subproductos (~60% del material generado no se aprovecha económicamente).
 - Logística forestal fragmentada e ineficiente (extracción, concentración, almacenamiento, transporte).
 - Insuficiente articulación entre capacidades científico-tecnológicas y necesidades del sector productivo.
+- Baja competitividad del pino blanco (menor valor comercial) frente a la madera que ingresa de Misiones, por falta de proceso industrial que le agregue valor en origen. *(Dato aportado por Damián Soto.)*
 
 ## Consecuencias
 
@@ -23,7 +26,7 @@ Servicios previstos: acondicionamiento, secado, clasificación y tratamiento de 
 - Baja productividad y competitividad de aserraderos y pymes.
 - Escasa diversificación productiva.
 - Limitada inserción en mercados de mayor valor y compras públicas.
-- Subutilización y acumulación de residuos (riesgo de incendio).
+- Subutilización y acumulación de residuos (riesgo de incendio) — agravada, según Damián Soto, por la falta de tratamientos silvícolas (podas y raleos) no realizados durante años en buena parte de las forestaciones, no por la forestación en sí.
 - Menor inversión, empleo y diversificación económica territorial.
 
 ## Objetivo general

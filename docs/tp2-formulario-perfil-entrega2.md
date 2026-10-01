@@ -109,7 +109,7 @@ Este es un punto donde ya tenemos trabajo hecho gracias a la línea de base (`do
 Este punto **no se inventa** — ya lo resolvió el antecedente CFI 2019 de forma explícita y es importante no repetir el error de plantear la venta de energía a la red (ver `docs/antecedente-plan-dendroenergetico-2019.md`, sección "por qué no vender al SADI"). Los instrumentos de recupero son:
 
 1. **Tarifario de servicios a aserraderos y pymes** (secado, clasificación, chipeado) bajo modelo de "acceso abierto" — el Polo cobra por uso, no compite con los aserraderos existentes. Este modelo evita el principal temor identificado en la línea de base de Patagonia (que el Polo se vuelva un competidor estatal).
-2. **Venta de productos de mayor valor agregado** generados en la propia planta: pellets, chips, biochar, madera clasificada y certificada. Incluye demanda institucional (usinas y edificios públicos que operen con biomasa) vía contratos de abastecimiento de mediano plazo.
+2. **Venta de productos de mayor valor agregado** generados en la propia planta: pellets y chips de pino (bosque implantado), madera clasificada y certificada. Incluye demanda institucional (usinas y edificios públicos que operen con biomasa) vía contratos de abastecimiento de mediano plazo. *(Se descarta el biochar — ver nota técnica de Damián Soto en `docs/tp2-problematizacion.md`.)*
 
 **Nota:** se dejó fuera de este listado el ahorro fiscal provincial por sustitución de diésel/GLP (USD 800.000-1.000.000/año, CFI 2019) — es un beneficio real y cuantificado, pero corresponde al componente energético del proyecto (sustitución de combustibles en usinas), no es un flujo de recupero de la inversión industrial del Polo en sí. Conviene mencionarlo en la sección de beneficios/impacto, no acá.
 

@@ -6,7 +6,7 @@ Repositorio de trabajo para la formulación del proyecto **"Polo Tecnológico Fo
 
 No es un bosque ni una plantación: es una **infraestructura tecnológica e industrial compartida**, como un parque industrial pero para la cadena foresto-industrial. Se ubicaría en el Noroeste de Chubut (Esquel, Trevelin, Lago Puelo, El Hoyo).
 
-Hoy hay ~51 aserraderos y pymes forestales relevados, cada uno con equipamiento chico, viejo y aislado. Ninguno puede pagar individualmente un secadero industrial, una planta de tratamiento de madera o una línea de procesamiento de residuos (chips, pellets, biochar). El Polo propone una infraestructura común que todos puedan usar, para:
+Hoy hay ~51 aserraderos y pymes forestales relevados, cada uno con equipamiento chico, viejo y aislado. Ninguno puede pagar individualmente un secadero industrial, una planta de tratamiento de madera o una línea de procesamiento de residuos de pino (chips, pellets). El Polo propone una infraestructura común que todos puedan usar, para:
 
 - Secar, clasificar y certificar madera con estándares de calidad.
 - Aprovechar el ~60% de biomasa/residuo forestal que hoy se pierde o se acumula (riesgo de incendio).

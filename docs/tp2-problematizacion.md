@@ -32,7 +32,14 @@ El TP2 pide 4 partes:
 - Menor desarrollo socioeconómico y diversificación local.
 - Pérdida de rentabilidad y competitividad del sector privado.
 - Alto riesgo ambiental y de incendios por acumulación de biomasa.
-- Fuga de valor y sustitución del mercado por madera importada.
+- Fuga de valor y sustitución del mercado por madera importada — en particular, el pino blanco regional (menor valor comercial) no puede competir con la madera que ingresa de Misiones por falta de proceso industrial que le agregue valor.
+
+> **Validación técnica (Damián Soto, Ingeniero Forestal, CORFO / Secretaría de Bosques de Chubut), 2026-10-01:**
+> - Confirma que el árbol de problemas no necesita reformularse: valida en particular todo el eje de biomasa/energía/polo tecnológico ("tiene bastante concordancia").
+> - Matiza la causa directa 2: no es "obsolescencia" de la tecnología — sí se incorporó tecnología, pero a pequeña escala, sin sistematización industrial del aserrío que permita manejar mayor volumen. La redacción actual ("déficit de equipamiento y tecnología compartida") ya es compatible con esta lectura.
+> - Descarta el biochar como producto viable con la madera disponible en la zona; el foco de biomasa debe ser pino (bosque implantado), no especies nativas.
+> - Precisa que la acumulación de biomasa/riesgo de incendios no se origina en la forestación en sí, sino en la falta de tratamientos silvícolas (podas y raleos) no realizados durante años — es la razón de ser del antecedente CFI de biomasa.
+> - Señala un dato pendiente: el inventario forestal (componente dasométrico) está desactualizado (último relevamiento 2013-2014), y hay forestaciones entrando en turno de corta que no están reflejadas ahí. Ver fila agregada en la tabla de la sección 4.
 
 ## 2. Formulación del problema central — chequeo contra criterios
 
@@ -74,6 +81,7 @@ Requiere un párrafo de 5-8 líneas que responda, de forma integrada:
 | Mapa de empatía del proyecto — perfil de contratista de saca / pequeño productor forestal | "El monte da trabajo pero no da plata"; ansiedad permanente por rotura de maquinaria y por cobrar a 90 días; siente que carga con el riesgo de toda la cadena | El problema no es solo tecnológico: el eslabón más débil de la cadena financia con su propio riesgo a los demás | **Causa** — evidencia cualitativa de por qué ningún actor individual puede invertir en equipamiento compartido |
 | Borrador técnico interno (Módulo 5, Viabilidad técnica), dato marcado `[SUPUESTO]`, sin fuente verificada | Rendimiento de aserrío estimado en 45-50% con sierras circulares y carros de tecnología antigua | Es un dato plausible pero no verificado — según la regla de evidencia del Taller 1, no debería tratarse como dato duro todavía | Causa tentativa de "déficit de equipamiento... transformación secundaria"; **pendiente validar** con una fuente real (cámara de aserraderos, CIEFAP o relevamiento propio) antes de usarlo en la entrega final |
 | CIEFAP, Publicación Técnica N°34 (Mohr-Bell et al., 2008) — tabla de costos por nodo territorial (ver `docs/linea-base-bioeconomia-forestal.md`) | El costo de puesta en planta varía de $228/tn (El Hoyo) a $322/tn (Esquel) según distancia media de acopio; Corcovado ($288/tn) ya supera el radio logístico óptimo de 25-30 km por tener 46 km de distancia media | La ineficiencia logística no es pareja en el territorio: hay nodos (El Hoyo, Trevelin) mucho más baratos que otros (Corcovado, Esquel) | **Causa** — evidencia dura y georreferenciada de la causa "ineficiente logística de extracción y de manejo del recurso"; aporta directamente a pensar dónde localizar nodos satélite del Polo |
+| Damián Soto, Ingeniero Forestal (CORFO / Secretaría de Bosques de Chubut) — validación técnica oral, 2026-10-01 | El último inventario forestal (componente dasométrico) de la región es de 2013-2014; hay forestaciones entrando en turno de corta que no están reflejadas en ese relevamiento | El dato de volumen de materia prima disponible que usa el proyecto está desactualizado — falta un componente dasométrico propio | **Causa** — matiza "déficit de equipamiento y tecnología compartida para transformación secundaria": sin un inventario actualizado no se puede dimensionar la inversión ni la escala real del Polo; **pendiente** encargar o conseguir un relevamiento dasométrico actualizado antes de Prefactibilidad |
 
 ### Confirmado: fuente real para los datos de biomasa del TP1
 
