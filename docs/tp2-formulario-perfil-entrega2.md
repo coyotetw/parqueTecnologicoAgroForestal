@@ -8,6 +8,8 @@
 
 El árbol de problemas y la vinculación al eje temático que trabajamos en el Taller 2 **alimentan** el contenido de este TP2, no lo reemplazan.
 
+**Nota sobre una bifurcación (2026-10-01):** a partir del `.docx` que se compartió con Yamil, se generó un Google Doc ("Formulario_Perfil_Polo_Forestal") que volcó este contenido directamente en la plantilla oficial del BFPI y completó algunos campos (monto de inversión fijado, fecha, responsable/organismo, tipología, permisos ambientales ampliados). Se decidió **no** adoptar esos campos administrativos todavía (siguen como PENDIENTE acá) y **sí** adoptar el ajuste de la sección 5 (sacar el ahorro fiscal del recupero de inversión, dejarlo como beneficio energético aparte). Este archivo (el del repo) sigue siendo la versión de trabajo de referencia.
+
 ---
 
 ## 1. Datos de cabecera
@@ -106,11 +108,12 @@ Este es un punto donde ya tenemos trabajo hecho gracias a la línea de base (`do
 
 Este punto **no se inventa** — ya lo resolvió el antecedente CFI 2019 de forma explícita y es importante no repetir el error de plantear la venta de energía a la red (ver `docs/antecedente-plan-dendroenergetico-2019.md`, sección "por qué no vender al SADI"). Los instrumentos de recupero son:
 
-1. **Ahorro fiscal directo para la Provincia** por sustitución de diésel y GLP subsidiado en las usinas y edificios públicos — ya cuantificado a nivel provincial en USD 800.000-1.000.000/año (CFI 2019). Este es el mecanismo de recupero indirecto más sólido que existe, aunque conceptualmente corresponde al componente energético del proyecto, no al industrial.
-2. **Tarifario de servicios a aserraderos y pymes** (secado, clasificación, chipeado) bajo modelo de "acceso abierto" — el Polo cobra por uso, no compite con los aserraderos existentes. Este modelo evita el principal temor identificado en la línea de base de Patagonia (que el Polo se vuelva un competidor estatal).
-3. **Venta de productos de mayor valor agregado** generados en la propia planta: pellets, chips, biochar, madera clasificada y certificada.
+1. **Tarifario de servicios a aserraderos y pymes** (secado, clasificación, chipeado) bajo modelo de "acceso abierto" — el Polo cobra por uso, no compite con los aserraderos existentes. Este modelo evita el principal temor identificado en la línea de base de Patagonia (que el Polo se vuelva un competidor estatal).
+2. **Venta de productos de mayor valor agregado** generados en la propia planta: pellets, chips, biochar, madera clasificada y certificada. Incluye demanda institucional (usinas y edificios públicos que operen con biomasa) vía contratos de abastecimiento de mediano plazo.
 
-**Pendiente:** cuantificar cada uno de estos tres flujos con un modelo financiero (flujo de fondos, VAN, TIR) — corresponde a la etapa de Pre-factibilidad/Factibilidad según la Guía BFPI, no a esta entrega.
+**Nota:** se dejó fuera de este listado el ahorro fiscal provincial por sustitución de diésel/GLP (USD 800.000-1.000.000/año, CFI 2019) — es un beneficio real y cuantificado, pero corresponde al componente energético del proyecto (sustitución de combustibles en usinas), no es un flujo de recupero de la inversión industrial del Polo en sí. Conviene mencionarlo en la sección de beneficios/impacto, no acá.
+
+**Pendiente:** cuantificar cada uno de estos dos flujos con un modelo financiero (flujo de fondos, VAN, TIR) — corresponde a la etapa de Pre-factibilidad/Factibilidad según la Guía BFPI, no a esta entrega.
 
 ---
 
@@ -167,7 +170,7 @@ Con la información disponible, ninguna de las dos alternativas activa la "lista
 | Plazo estimado | ✅ Estimación razonada (30-36 meses), a confirmar con cronograma real |
 | Alternativas técnicas | ✅ Dos alternativas bien fundamentadas con evidencia de la línea de base |
 | Beneficios económicos por alternativa | ⬜ Cualitativo resuelto, cuantificación pendiente |
-| Procedimiento de recupero | ✅ Los 3 mecanismos están identificados y parcialmente cuantificados |
+| Procedimiento de recupero | ✅ Los 2 mecanismos (tarifario + venta de productos) están identificados; el ahorro fiscal se separó como beneficio energético, no como recupero |
 | Ficha Parte A (datos generales) | ⬜ Faltan datos administrativos (organismo, fecha, responsable, tipología oficial) |
 | Ficha — alternativas técnicas ambientales | ✅ Análisis comparativo preliminar hecho |
 | Ficha — mapa de infraestructura | ⬜ Pendiente (cartografía) |
