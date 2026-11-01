@@ -20,6 +20,8 @@ Fuente original: carpeta de Drive `Programa Intensivo de Formulacion de proyecto
 - `docs/proyecto-resumen.md` — síntesis del proyecto (Entrega 1 / TP1 del Formulario Perfil).
 - `docs/tp2-formulario-perfil-entrega2.md` — **TP2 = Entrega 2 del Formulario Perfil BFPI** (monto de inversión, beneficiarios cuantificados, plazo, alternativas técnicas, procedimiento de recupero) + Ficha de Identificación Temprana de Riesgos e Impactos Ambientales y Sociales.
 - `docs/teoria-del-cambio.md` — Teoría del Cambio, objetivos y componentes del TP2 (Anexo II, Parte A), ajustada según la devolución del taller y la validación de Damián Soto.
+- `docs/devolucion-tp2.md` — devolución de la docente sobre el TP2 (80/100) y cómo se respondió en la versión final.
+- `docs/entregas/` — documentos de entrega. La versión vigente es `TP2_Formulario_Perfil_Polo_Forestal_Chubut_FINAL.docx`; `mapa/` tiene el mapa y el archivo .kmz para Google Earth. `docs/plantillas/Formulario_Perfil_Polo_Forestal_Actualizado.docx` es una versión consolidada anterior y quedó superada.
 - `docs/tp2-problematizacion.md` — esto es otra cosa: el **Taller 2 del curso GPD** (problematización — árbol de problemas, vinculación al eje temático). Ver nota de aclaración abajo.
 - `docs/alineacion-guia-bfpi.md` — chequeo de lo hecho contra la Guía BFPI-CFI (el marco institucional real del CFI, más exigente que el curso).
 - `docs/linea-base-bioeconomia-forestal.md` — línea de base con antecedentes de Chile (CENAMAD, Ley 21.499) y de la Patagonia Norpatagónica (CIEFAP, CORFONE, costos por nodo en Chubut), y lecciones de éxito/fracaso de otros polos.

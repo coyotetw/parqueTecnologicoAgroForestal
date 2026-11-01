@@ -36,17 +36,17 @@
 
 ## Objetivos y componentes
 
-**Objetivo general:** fortalecer y modernizar la estructura tecnológica e industrial de la cadena foresto-industrial del Noroeste de Chubut mediante un Polo Tecnológico Forestal de servicios compartidos, que incremente la capacidad de transformación, el aprovechamiento integral del recurso, la generación de valor agregado y la competitividad sectorial.
+> **Versión final (devolución del TP2):** la docente observó que los componentes 1, 3 y 4 eran actividades y no productos, y sugirió dos componentes, uno duro y uno blando. La estructura vigente es la de la tabla de abajo; la lista de cuatro componentes de la primera versión queda reemplazada. Ver `docs/devolucion-tp2.md`.
 
-| Componente | Objetivo específico | Productos |
-|---|---|---|
-| **1. Infraestructura industrial compartida** | Desarrollar infraestructura y equipamiento compartido para la transformación primaria y secundaria de madera y biomasa de pino | Polo operativo; chips y pellets de pino certificados; servicios tarifados de acceso abierto |
-| **2. Logística y abastecimiento sostenible de biomasa** | Reducir los costos de extracción y transporte y asegurar un abastecimiento sostenible que reduzca la carga de combustible | Protocolo logístico común; contratos de abastecimiento; inventario dasométrico actualizado; protocolo de origen sostenible |
-| **3. Calidad, clasificación y certificación** | Incorporar secado, clasificación, estandarización y certificación para mejorar la competitividad del pino regional | Madera clasificada y secada industrialmente; sello/certificación de calidad regional |
-| **4. Gobernanza y transferencia tecnológica** | Consolidar la articulación entre Estado, sector privado y sistema científico-tecnológico y transferir tecnología a los pequeños productores | Consorcio de gestión; convenios con CIEFAP, INTA y UNPSJB; laboratorio de I+D+i; plan de transferencia y capacitación |
+**Objetivo general (situación deseada):** la cadena foresto-industrial del Noroeste de Chubut cuenta con una estructura tecnológica e industrial fortalecida y moderna, que aprovecha de forma integral el recurso forestal, genera valor agregado y es competitiva.
+
+| Componente (producto) | Objetivo específico (situación deseada) | Actividades | Producto verificable |
+|---|---|---|---|
+| **1. Polo Tecnológico Forestal operativo (duro)** | Los aserraderos y pymes disponen de infraestructura y equipamiento compartidos, de acceso abierto, para transformar, secar, clasificar y certificar madera y valorizar la biomasa de pino | Construir y equipar la planta de biomasa; instalar el secadero industrial; instalar las líneas de clasificación y certificación; equipar el laboratorio de I+D+i | Polo operativo (24.700 t/año de chips o 12.600 t/año de pellets); chips y pellets certificados; madera clasificada y secada; servicios tarifados |
+| **2. Sistema de gestión, abastecimiento y transferencia en funcionamiento (blando)** | La gestión del Polo, su abastecimiento sostenible de biomasa y la transferencia de tecnología están articulados entre Estado, sector privado y sistema científico-tecnológico mediante instrumentos vinculantes | Constituir el consorcio y firmar convenios; definir el protocolo logístico y el de origen sostenible; firmar contratos de abastecimiento; actualizar el inventario dasométrico; implementar el plan de transferencia | Sistema de gestión operando, con consorcio, convenios, contratos y protocolos vigentes |
 
 ## Pendientes que quedan abiertos
 
 - **Metas numéricas:** todas las columnas "meta a definir" requieren decisión del equipo; no se inventaron valores. Las líneas de base (40% aprovechamiento, 6% transformación secundaria, 51 aserraderos) provienen del TP1 y falta confirmar la página exacta de la fuente (CIEFAP Pub. Téc. 34).
 - **Pinos no nativos con gran capacidad de dispersión:** pregunta de la devolución sin respuesta. Hay que consultarla con Damián Soto antes de fijar una postura en el documento.
-- **Láminas visuales:** la lámina "Componentes y Productos" del artefacto tiene 3 componentes y esta versión tiene 4; si se adopta esta versión, hay que actualizarla.
+- **Láminas visuales:** la lámina "Componentes y Productos" del artefacto tiene 3 componentes y la versión vigente tiene 2; hay que actualizarla si se va a usar.
